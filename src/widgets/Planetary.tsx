@@ -46,7 +46,7 @@ export const Planetary = () => {
           position: "fixed",
           zIndex: "-1",
           width: "100vw",
-          height: "100vh",
+          height: "110%",
           backgroundColor: "black",
         }}
       >
